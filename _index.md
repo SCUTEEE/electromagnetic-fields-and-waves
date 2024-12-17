@@ -1,6 +1,6 @@
 ---
 title: 电磁场与电磁波
-type: series
+series: true
 cascade:
   params:
     math: true
