@@ -1,7 +1,7 @@
 ---
-title: 课程名
+title: 电磁场与电磁波
 series: true
-github: github仓库地址
+github: https://github.com/SCUTEEE/electromagnetic-fields-and-waves
 ---
 
 <!-- 该文件用于网站显示 -->
